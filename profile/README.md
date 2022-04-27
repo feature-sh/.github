@@ -6,23 +6,26 @@ Feature is a **blockchain powered GitHub App** that helps organizations to **boo
 
 <br>
 
-# How to contribute to Feature? 🛠️
+# Where are the docs? 📖
 
-Anybody can contribute to our public repositories, but you will find most of the tasks in the
-**[bounties](https://github.com/feature-sh/bounties)** one.
+Good to know that you want to learn more! 😁
+
+You will find more details and tutorials on how to use Feature by [clicking here](https://docs.feature.sh).
 
 <br>
 
-# Where are the docs? 📖
+# How to contribute to Feature? 🛠️
 
-You will find more details and tutorials on how to use Feature by [clicking here](https://docs.feature.sh).
+Anybody can contribute to our public repositories, but you will find most of the tasks in the
+**[bounties](https://github.com/feature-sh/bounties)** one. Let's get those rewards! 🤑
+
 
 <br>
 
 # Where can I get Feature? ⬇️
 
 [Click here](https://beta.v1.evm.app.feature.sh/) to go on the downloading page. You can follow the installation tutorial
-[here](https://docs.feature.sh/#getting-started).
+[here](https://docs.feature.sh/#getting-started). After that, congrats! Your project has no limit! 💥
 
 <br>
 
@@ -49,6 +52,6 @@ by **linking a PR with this command**:
 <br>
 
 4) When the **[challenge](https://docs.feature.sh/guides/challenge-a-claim) period is done**, the contributer can
-**[execute the payment](https://docs.feature.sh/guides/execute-a-payment)** and receive the reward.
+**[execute the payment](https://docs.feature.sh/guides/execute-a-payment)** and tada! The developer will receive the reward! 🎉
 
 ![image](https://user-images.githubusercontent.com/48217573/165281734-179784fa-7065-4c35-b836-5bc3b4293629.png)
