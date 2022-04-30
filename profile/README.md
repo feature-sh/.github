@@ -1,4 +1,4 @@
-# What is Feature? 🤔
+### What is Feature? 🤔
 
 Feature is a **blockchain powered GitHub App** that helps organizations to **boost their productivity**, by **gamifying the developers payment process**.
 
@@ -6,7 +6,7 @@ Feature is a **blockchain powered GitHub App** that helps organizations to **boo
 
 <br>
 
-# Where are the docs? 📖
+### Where are the docs? 📖
 
 Good to know that you want to learn more! 😁
 
@@ -14,7 +14,7 @@ You will find more details and tutorials on how to use Feature by [clicking here
 
 <br>
 
-# How to contribute to Feature? 🛠️
+### How to contribute to Feature? 🛠️
 
 Anybody can contribute to our public repositories, but you will find most of the tasks in the
 **[bounties](https://github.com/feature-sh/bounties)** one. Let's get those rewards! 🤑
@@ -22,14 +22,14 @@ Anybody can contribute to our public repositories, but you will find most of the
 
 <br>
 
-# Where can I get Feature? ⬇️
+### Where can I get Feature? ⬇️
 
 [Click here](https://beta.v1.evm.app.feature.sh/) to go on the downloading page. You can follow the installation tutorial
 [here](https://docs.feature.sh/#getting-started). After that, congrats! Your project has no limit! 💥
 
 <br>
 
-# A common use case 💰
+### A common use case 💰
 
 1) Someone (usually the repo owner) **[creates a deal](https://docs.feature.sh/guides/create-a-deal)**
 by opening an issue with a **title naming convention to be respected**.
