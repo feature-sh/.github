@@ -6,22 +6,19 @@ Feature is a **blockchain powered GitHub App** that helps organizations to **boo
 
 ___
 
-### Where are the docs? 📖
+### Wanna learn more? 📖
 
-Good to know that you want to learn more! 😁
-
-You will find more details and tutorials on how to use Feature by [clicking here](https://docs.feature.sh).
+Pretty interesting, right? 😁 You can find tutorials & more details in the [docs](https://docs.feature.sh).
 
 ___
 
-### How to contribute to Feature? 🛠️
+### Wanna be counted in? 🛠️
 
-Anybody can contribute to our public repositories, but you will find most of the tasks in the
-**[bounties](https://github.com/feature-sh/bounties)** one. Let's get those rewards! 🤑
+The more we are, the more we can do! 💪 Anybody can contribute with the **[bounties](https://github.com/feature-sh/bounties)**. Let's get those rewards! 🤑
 
 ___
 
-### Where can I get Feature? ⬇️
+### Where to download Feature? ⬇️
 
 [Click here](https://beta.v1.evm.app.feature.sh/) to go on the downloading page. You can follow the installation tutorial
 [here](https://docs.feature.sh/#getting-started). After that, congrats! Your project has no limit! 💥
