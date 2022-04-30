@@ -4,7 +4,7 @@ Feature is a **blockchain powered GitHub App** that helps organizations to **boo
 
 <ins>**Entertaining tasks, crypto rewards, secure payment, performance tracking, automated accounting & more!**</ins> 😎
 
-> It is currently deployed on **Gnosis**, **Polygon**, **Arbitrum** and **Syscoin**.
+> It is currently deployed on **Gnosis**, **Polygon** & **Arbitrum**.
 
 ___
 
