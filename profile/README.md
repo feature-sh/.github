@@ -1,7 +1,7 @@
 ### What is Feature? 🤔
 
 Feature is a **blockchain powered GitHub App** that helps organizations to
-**boost their productivity**, by **gamifying the developers payment process**.
+**boost their productivity** by **gamifying the developers payment process**.
 
 **Entertaining tasks, crypto rewards, secure payments, performance
 tracking, automated accounting & more!** 😎
