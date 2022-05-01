@@ -3,8 +3,8 @@
 Feature is a **blockchain powered GitHub App** that helps organizations to
 **boost their productivity**, by **gamifying the developers payment process**.
 
-<ins>**Entertaining tasks, crypto rewards, secure payments, performance
-tracking, automated accounting & more!**</ins> 😎
+**Entertaining tasks, crypto rewards, secure payments, performance
+tracking, automated accounting & more!** 😎
 
 > It is currently deployed on **Gnosis**, **Polygon** & **Arbitrum**.
 
