@@ -22,4 +22,4 @@ ___
 
 ### Where to download Feature? ⬇️
 
-[Click here](https://beta.v1.evm.app.feature.sh/) to go on the downloading page. You can follow the installation tutorial [here](https://docs.feature.sh/#getting-started). After that, congrats! Your project has no limit! 💥
+[Click here](https://beta.v1.evm.app.feature.sh/) to go on the downloading page. You can follow the installation tutorial [here](https://docs.feature.sh/#getting-started). After that, congrats! Your project has no limit!💥
