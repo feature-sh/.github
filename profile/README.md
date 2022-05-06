@@ -4,7 +4,7 @@ Feature is a **dApp powered GitHub App** that helps organizations to **boost the
 
 **Entertaining tasks, crypto rewards, secure payments, performance tracking, automated accounting & more!** 😎
 
-> It is currently deployed on **Gnosis**, **Polygon** & **Arbitrum**.
+> It is currently deployed on **Gnosis Chain**, **Polygon** & **Arbitrum**.
 
 ___
 
