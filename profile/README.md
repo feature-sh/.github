@@ -22,4 +22,4 @@ ___
 
 ### Where to download Feature? ⬇️
 
-[Click here](https://github.com/marketplace/feature-bot) to go on the downloading page. You can follow the installation tutorial [here](https://docs.feature.sh/#getting-started). After that, congrats! Your project has no limit!💥
+[Click here](https://github.com/marketplace/feature-bot) to go on the Github marketplace to [install it for free](https://github.com/marketplace/feature-bot). You can follow the installation tutorial [here](https://docs.feature.sh/#getting-started). After that, congrats! Your project has no limit!💥
