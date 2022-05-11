@@ -1,4 +1,4 @@
-### What is Feature? 🤔
+### What is Feature? 🤖
 
 Feature is a **dApp powered GitHub App** that helps organizations to **boost their productivity** by **gamifying the developers payment process**.
 
@@ -20,7 +20,7 @@ The more we are, the more we can do! 💪 Anybody can contribute with the **[bou
 
 ___
 
-### Where to download Feature? ⬇️
+### How to get started? 🚀
 
 [Click here to go on the Github marketplace to install it for free ⬇️](https://github.com/marketplace/feature-bot)
 
