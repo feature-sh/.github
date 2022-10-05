@@ -22,6 +22,6 @@ ___
 
 ### How to get started? 🚀
 
-[⬇️ Click here to go on the Github marketplace to install it for free ⬇️](https://github.com/marketplace/feature-bot)
+[➡️ Click here to go on the Github marketplace to install it for free ⬅️](https://github.com/marketplace/feature-bot)
 
 You can follow the installation tutorial [here](https://docs.feature.sh/#getting-started). After that, congrats! Your project has no limit!💥
